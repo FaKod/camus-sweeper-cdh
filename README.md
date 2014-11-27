@@ -12,3 +12,6 @@ Camus Sweeper needs Avro-Schema files. Since I don't have a Schema Registry I ad
 # f.e. for topic eu_fakod_app_search_term you should configure:
 eu_fakod_app_search_term.camus.sweeper.avro.schema.class=eu.fakod.app.search.term.SchemaClass
 ```
+
+#Little more Information
+* [Camus Sweeper](http://blog.fakod.eu/2014/10/16/camus-sweeper/)
